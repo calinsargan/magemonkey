@@ -14,12 +14,12 @@
             <ebizmarts_mandrill_resource>
                 <class>Ebizmarts_Mandrill_Model_Resource</class>
             </ebizmarts_mandrill_resource>
-            <core>
+            <!-- <core>
                 <rewrite>
                     <email_template>Ebizmarts_Mandrill_Model_Email_Template</email_template>
                     <email_queue>Ebizmarts_Mandrill_Model_Email_Queue</email_queue>
                 </rewrite>
-            </core>
+            </core> -->
         </models>
         <blocks>
             <ebizmarts_mandrill>
